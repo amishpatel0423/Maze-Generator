@@ -1,0 +1,24 @@
+body{
+  background-color: #c1d3fe;
+}
+h1{
+  color: #3a0ca3;
+  text-align: center;
+font-family: 'Montserrat', sans-serif;
+
+}
+.p5Canvas{
+  border: solid 5px;
+text-align: center;
+}
+
+footer{
+  margin-top: 10px;
+  color: #3a0ca3;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+main{
+text-align: center;
+}
